@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     }
     
     /**
-     Adds two numbers together and returns the result.
+     Adds two numbers together and returns the result. MODIFY
      - parameter num1: The firtst number
      - parameter num2: The second number
      - returns: The sum of num1 and num2
