@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+    
     /**
      Adds two numbers together and returns the result.
      - parameter num1: The firtst number
@@ -23,8 +23,5 @@ class ViewController: UIViewController {
     func addNumbers(num1: Int, num2: Int) -> Int {
         return num1 + num2
     }
-    
-    
-
 }
 
